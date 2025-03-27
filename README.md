@@ -1,4 +1,4 @@
-
+![logo](https://github.com/fulbabu-t/fulbabu-t/blob/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm Fulbabu</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
