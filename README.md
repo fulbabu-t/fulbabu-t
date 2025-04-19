@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/ fulbabu-islam-96a9ba2ba Vanity URL name](www.linkedin.com/in/ fulbabu-islam-96a9ba2ba Vanity URL name)
 
-- 📫 How to reach me **fulbabui74@gmai.com**
+- 📫 How to reach me **fulbabui74@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 
