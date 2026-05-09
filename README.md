@@ -64,26 +64,24 @@
 
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img width="59%" height="300px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anurag2787&theme=tokyonight" />
-
-  <img width="40%" height="220px" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anurag2787&theme=tokyonight" />
-</p>
-
 
 
 <p align="center">
-    <img width="28%" height="220px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anurag2787&theme=tokyonight" />
+  <img width="59%" height="300px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fulbabu-t&theme=tokyonight" />
 
-
-  <img width="28%" height="2220px" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anurag2787&theme=tokyonight" />
-
-  <img width="28%" height="2220px" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anurag2787&theme=tokyonight&utcOffset=8" />
-
+  <img width="40%" height="300px" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fulbabu-t&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img width="98%" height="220px" src="https://github-readme-streak-stats.herokuapp.com/?user=anurag2787&theme=tokyonight&hide_border=true&background=0D1117" />
+  <img width="32%" height="220px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fulbabu-t&theme=tokyonight" />
+
+  <img width="32%" height="220px" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fulbabu-t&theme=tokyonight" />
+
+  <img width="32%" height="220px" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fulbabu-t&theme=tokyonight&utcOffset=8" />
+</p>
+
+<p align="center">
+  <img width="98%" height="220px" src="https://github-readme-streak-stats.herokuapp.com/?user=fulbabu-t&theme=tokyonight&hide_border=true&background=0D1117" />
 </p>
 
 
