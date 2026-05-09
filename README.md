@@ -1,13 +1,9 @@
-![image](https://github.com/user-attachments/assets/b47b7aae-b43b-448d-8257-faba7e4d4e03)
-
-
 
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Fulbabu Islam </h1>
 <h3 align="center">Full Stack Developer </h3>
 
-![image](https://github.com/user-attachments/assets/b47b7aae-b43b-448d-8257-faba7e4d4e03)
-
+![image](https://github.com/user-attachments/assets/7d3702cc-0d15-40a6-9ede-de4b02d5ef9b)
 
 
 
@@ -117,8 +113,8 @@
 </p>
 ---
 
----
 
+---
 ### 🎯 Motto
 > *"("Build") ("Break") ("Learn") ("Repeat")."*
 
