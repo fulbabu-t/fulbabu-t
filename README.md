@@ -47,13 +47,21 @@
 
 ## 🚀 Projects
 
-  
-- 🛒 **E-Commerce Website** — Online Courses Selling 
-- 🤖 **AI Voice Assistant** — Ai Voice Dental Assistant 
-- 🌐 **Website Builder Project** — Platform to create responsive websites easily
-- 🧠 **AI Chatbot Project** — Intelligent chatbot with real-time responses  
 
-  
+
+🛒 E-Commerce Platform — Online course selling platform with secure payments and user dashboard
+
+
+🤖 AI Voice Assistant — Smart AI-powered dental voice assistant for appointment and patient support
+
+
+🌐 Website Builder — Drag-and-drop responsive website creation platform
+
+
+🧠 AI Chatbot — Real-time intelligent chatbot with AI-driven conversations  
+
+
+🎶 Music Backend Project — Scalable backend system for songs, albums, users, and playlists
 
 ---
 
@@ -98,17 +106,20 @@
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/fulbabu-islam-96a9ba2ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/fulbabu-islam-96a9ba2ba" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+  
   <a href="mailto:fulbabui74@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://github.com/fulbabu-t">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" />
+  
+  <a href="https://github.com/fulbabu-t" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="https://" target="_blank">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white" />
+  
+  <a href="https://yourportfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
 </p>
 ---
