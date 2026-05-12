@@ -24,7 +24,7 @@
 - 💻 I love creating things people enjoy using.
 - 📄 Know about my experiences Resume
 - 📫 Reach me at **fulbabui74@gmail.com**
-- 🌐 Check out my portfolio My Portfolio
+- 🌐 Check out my portfolio [My Portfolio](https://fulbabu.dev/)
 
 
 
@@ -118,7 +118,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
   
-  <a href="[https://yourportfolio.com](https://fulbabu.dev/)" target="_blank">
+  <a href="https://fulbabu.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
 </p>
