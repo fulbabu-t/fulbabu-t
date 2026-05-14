@@ -1,11 +1,19 @@
 
+
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Fulbabu Islam </h1>
-<h3 align="center">Full Stack Developer </h3>
+<!-- <h3 align="center">Full Stack Developer </h3> -->
 
+
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Expert;DSA+Problem+Solved;UI/UX+Designer)
 ![image](https://github.com/user-attachments/assets/7d3702cc-0d15-40a6-9ede-de4b02d5ef9b)
 
 
+</div>
+
+  
 
 
 <!-- Profile Views -->
@@ -18,7 +26,7 @@
 
 - 🎓 Pursuing **B.Tech in Computer Science & Engineering** at J.C. Bose University, YMCA (2023–2027)
 - ❣ You know what? I love Contributing to Open Source 🩵.
-- 🔭 Currently working on **Internships **  
+- 🔭 Currently working on ** GirlScript Summer of Code (GSSoC) **  
 - 🌱 Improving skills in ** Python , Ai **   
 - 💬 Ask me about Turning coffee into code
 - 💻 I love creating things people enjoy using.
