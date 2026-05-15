@@ -1,8 +1,22 @@
+<!-- =========================
+     ANIMATED HEADER
+========================= -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,11,20&text=Fulbabu%20Islam&fontSize=55&fontAlignY=40&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Contributor&descAlignY=60&descSize=18" />
+
+<!-- =========================
+     TYPING ANIMATION
+========================= -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Open+Source+Contributor;DSA+Learner;+%7C++%7C+;Always+Learning+New+Things" />
+
+</div>
 
 
-<!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Fulbabu Islam </h1>
-<!-- <h3 align="center">Full Stack Developer </h3> -->
+
+
 
 
 <div align="center">
@@ -136,4 +150,6 @@
 ---
 ### 🎯 Motto
 > *"("Build") ("Break") ("Learn") ("Repeat")."*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
