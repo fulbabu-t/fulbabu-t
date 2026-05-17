@@ -66,24 +66,142 @@
 <img src="https://skillicons.dev/icons?i=git,github,githubactions,linux,bash,vscode,figma,notion" />
 
 ---
-
-## 🚀 Projects
-
-
-
-🛒 E-Commerce Platform — Online course selling platform with secure payments and user dashboard
+<h1 align="center">
+   🚀 All Projects
+</h1>
 
 
-🤖 AI Voice Assistant — Smart AI-powered dental voice assistant for appointment and patient support
 
+<br>
 
-🌐 Website Builder — Drag-and-drop responsive website creation platform
+<table align="center">
+<tr>
+<th>🧠 Project</th>
+<th>🏷️ Category</th>
+<th>📄 Description</th>
+</tr>
 
+<tr>
+<td>
 
-🧠 AI Chatbot — Real-time intelligent chatbot with AI-driven conversations  
+### 🛒 E-Commerce Platform
 
+</td>
 
-🎶 Music Backend Project — Scalable backend system for songs, albums, users, and playlists
+<td>
+
+<img src="https://img.shields.io/badge/Full%20Stack-FF4B4B?style=for-the-badge"/>
+
+</td>
+
+<td>
+
+Modern online course selling platform with secure authentication and payment integration.
+
+Features responsive UI, personalized dashboards, and scalable backend services.
+
+Designed to deliver seamless digital learning experiences with high performance.
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🤖 AI Voice Assistant
+
+</td>
+
+<td>
+
+<img src="https://img.shields.io/badge/AI%20Assistant-7B61FF?style=for-the-badge"/>
+
+</td>
+
+<td>
+
+Smart AI-powered dental assistant for appointment booking and patient communication.
+
+Supports real-time voice interaction with intelligent automated responses.
+
+Improves clinic workflow efficiency and enhances customer support experiences.
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🌐 Website Builder
+
+</td>
+
+<td>
+
+<img src="https://img.shields.io/badge/Web%20Builder-00C9A7?style=for-the-badge"/>
+
+</td>
+
+<td>
+
+Drag-and-drop responsive website creation platform for modern web design.
+
+Includes customizable templates, live editing, and responsive layouts.
+
+Allows users to build and deploy websites without coding knowledge.
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🧠 AI Chatbot
+
+</td>
+
+<td>
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-9B5DE5?style=for-the-badge"/>
+
+</td>
+
+<td>
+
+Real-time intelligent chatbot with advanced NLP-powered conversations.
+
+Understands user context and generates smart automated responses instantly.
+
+Built with scalable architecture for modern AI communication systems.
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🎶 Music Backend Project
+
+</td>
+
+<td>
+
+<img src="https://img.shields.io/badge/Backend%20System-FF9F1C?style=for-the-badge"/>
+
+</td>
+
+<td>
+
+Scalable backend system for songs, albums, playlists, and user management.
+
+Includes authentication, media handling, and optimized streaming APIs.
+
+Designed for high-performance music streaming and content delivery services.
+
+</td>
+</tr>
+
+</table>
 
 ---
 
