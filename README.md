@@ -23,6 +23,9 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Expert;DSA+Problem+Solved;UI/UX+Designer)
 ![image](https://github.com/user-attachments/assets/7d3702cc-0d15-40a6-9ede-de4b02d5ef9b)
+<a href="https://gssoc.girlscript.tech/">
+  <img src="https://github.com/user-attachments/assets/a05d2da2-eeda-45fa-9051-85840d3b72e0" alt="GSSoC" width="280" />
+</a>
 
 
 </div>
@@ -152,4 +155,3 @@
 > *"("Build") ("Break") ("Learn") ("Repeat")."*
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-
