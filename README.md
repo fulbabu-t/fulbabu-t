@@ -231,12 +231,11 @@ Designed for high-performance music streaming and content delivery services.
 ---
 
 # 🏆 GSSoC '26 Open Source Contribution Badges
-
-<a href="https://gssoc.girlscript.tech/leaderboard">
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" alt="Postman Badge"/>
-  
-</a>
-</div>
+<p align="center">
+ 
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100" alt="Postman"/>
+ 
+</p>
 
 ---
 
