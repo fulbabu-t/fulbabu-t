@@ -57,14 +57,14 @@
 
 <p align="center">
   <a href="https://gssoc.girlscript.tech/leaderboard" target="_blank"><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100" height="100" alt="GSSoC Postman Badge" /></a>
-  <a href="https://gssoc.girlscript.tech/leaderboard" target="_blank"><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100" height="100" alt="GSSoC Badge 1" /></a>
-  <a href="https://gssoc.girlscript.tech/leaderboard" target="_blank"><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100" height="100" alt="GSSoC Badge 2" /></a>
-  <a href="https://gssoc.girlscript.tech/leaderboard" target="_blank"><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100" height="100" alt="GSSoC Badge 3" /></a>
-  <a href="https://gssoc.girlscript.tech/leaderboard" target="_blank"><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100" height="100" alt="GSSoC Badge 4" /></a>
-  <a href="https://gssoc.girlscript.tech/leaderboard" target="_blank"><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100" height="100" alt="GSSoC Badge 5" /></a>
-  <a href="https://gssoc.girlscript.tech/leaderboard" target="_blank"><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="100" height="100" alt="GSSoC Badge 6" /></a>
-  <a href="https://gssoc.girlscript.tech/leaderboard" target="_blank"><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100" height="100" alt="GSSoC Badge 7" /></a>
-  <a href="https://gssoc.girlscript.tech/leaderboard" target="_blank"><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100" height="100" alt="GSSoC Badge 8" /></a>
+  <a href="https://gssoc.girlscript.tech/leaderboard" target="_blank"><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100" height="100" alt="GSSoC Badge Level 1" /></a>
+  <a href="https://gssoc.girlscript.tech/leaderboard" target="_blank"><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100" height="100" alt="GSSoC Badge Level 2" /></a>
+  <a href="https://gssoc.girlscript.tech/leaderboard" target="_blank"><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100" height="100" alt="GSSoC Badge Level 3" /></a>
+  <a href="https://gssoc.girlscript.tech/leaderboard" target="_blank"><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100" height="100" alt="GSSoC Badge Level 4" /></a>
+  <a href="https://gssoc.girlscript.tech/leaderboard" target="_blank"><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100" height="100" alt="GSSoC Badge Level 5" /></a>
+  <a href="https://gssoc.girlscript.tech/leaderboard" target="_blank"><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="100" height="100" alt="GSSoC Badge Level 6" /></a>
+  <a href="https://gssoc.girlscript.tech/leaderboard" target="_blank"><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100" height="100" alt="GSSoC Badge Level 7" /></a>
+  <a href="https://gssoc.girlscript.tech/leaderboard" target="_blank"><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100" height="100" alt="GSSoC Badge Level 8" /></a>
 </p>
 
 ---
