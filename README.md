@@ -228,8 +228,17 @@ Designed for high-performance music streaming and content delivery services.
   <img width="98%" height="220px" src="https://github-readme-streak-stats.herokuapp.com/?user=fulbabu-t&theme=tokyonight&hide_border=true&background=0D1117" />
 </p>
 
+---
 
+# 🏆 GSSoC '26 Open Source Contribution Badges
 
+<a href="https://gssoc.girlscript.tech/leaderboard">
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" alt="Postman Badge"/>
+  
+</a>
+</div>
+
+---
 
 
 <hr>
