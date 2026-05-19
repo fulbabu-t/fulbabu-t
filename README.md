@@ -213,7 +213,7 @@ Designed for high-performance music streaming and content delivery services.
 <p align="center">
   <img width="59%" height="300px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fulbabu-t&theme=tokyonight" />
 
-  <img width="40%" height="300px" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fulbabu-t&theme=tokyonight" />
+  <img width="40%" height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fulbabu-t&theme=tokyonight" />
 </p>
 
 <p align="center">
