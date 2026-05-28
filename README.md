@@ -247,7 +247,7 @@ Designed for high-performance music streaming and content delivery services.
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fulbabu-t&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=fulbabu-t&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" />
 </p>
 
 <hr>
@@ -280,4 +280,3 @@ Designed for high-performance music streaming and content delivery services.
 > *"("Build") ("Break") ("Learn") ("Repeat")."*
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-
