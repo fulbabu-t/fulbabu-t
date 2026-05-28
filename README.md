@@ -239,7 +239,7 @@ Designed for high-performance music streaming and content delivery services.
  
 </p>
 
----
+
 
 
 <hr>
@@ -247,7 +247,7 @@ Designed for high-performance music streaming and content delivery services.
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fulbabu-t&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=Fulbabu-T&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
 </p>
 
 <hr>
@@ -272,10 +272,10 @@ Designed for high-performance music streaming and content delivery services.
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
 </p>
----
 
 
----
+
+
 ### 🎯 Motto
 > *"("Build") ("Break") ("Learn") ("Repeat")."*
 
