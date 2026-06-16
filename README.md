@@ -233,9 +233,10 @@ Designed for high-performance music streaming and content delivery services.
 # 🏆 GSSoC '26 Open Source Contribution Badges
 <p align="center">
  
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="97" alt="Postman"/>
-   <img src="https://gssoc.girlscript.org/logo.png" width="107" alt="GSSoC Logo"/>
+ 
+  <img src="https://cc.sj-cdn.net/instructor/3d8458f2k85sh-postman/course_series/3a5xz9m019od4/promo-image.1649784759.png" width="120" alt="Postman API Fundamentals Student Expert"/>
   &nbsp;&nbsp;
+  <img src="https://gssoc.girlscript.org/logo.png" width="135" alt="GSSoC Logo"/>
  
 </p>
 
