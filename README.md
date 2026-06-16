@@ -232,11 +232,11 @@ Designed for high-performance music streaming and content delivery services.
 
 # 🏆 GSSoC '26 Open Source Contribution Badges
 <p align="center">
- 
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="97" alt="Postman"/>
-   <img src="https://gssoc.girlscript.org/logo.png" width="107" alt="GSSoC Logo"/>
-  &nbsp;&nbsp;
- 
+  <img src="https://raw.githubusercontent.com/fulbabu-t/fulbabu-t/main/contributor__1_.png" width="100" alt="Contributor Badge"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/fulbabu-t/fulbabu-t/main/open.png" width="100" alt="Open Source Badge"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/fulbabu-t/fulbabu-t/main/postman.png" width="100" alt="Postman Badge"/>
 </p>
 
 
@@ -280,4 +280,3 @@ Designed for high-performance music streaming and content delivery services.
 > *"("Build") ("Break") ("Learn") ("Repeat")."*
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-
