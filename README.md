@@ -53,17 +53,159 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🌐 Connect with Me
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,vite,tailwind,bootstrap,sass" />
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,java,python,spring" />
+     
+  <a href="https://github.com/fulbabu-t" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="45"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,firebase,supabase" />
+  <a href="https://www.linkedin.com/in/fulbabu-islam-96a9ba2ba/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,vercel,netlify,docker,kubernetes" />
+  <a href="https://fulbabu.dev/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/domain.png" height="45" alt="Portfolio"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  
+ <a href="mailto:fulbabui74@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="45" alt="Email"/>
+  </a>
+ 
+</p>
 
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,linux,bash,vscode,figma,notion" />
+## 💻 Coding Profiles
+
+<p align="center">
+  <a href="https://www.geeksforgeeks.org/profile/fulbabkli8?tab=activity" target="_blank">
+    <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" height="45" alt="GeeksforGeeks"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://leetcode.com/u/Fulbabu/" target="_blank">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="45" alt="LeetCode"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.codechef.com/users/yourusername" target="_blank">
+    <img src="https://cdn.simpleicons.org/codechef/5B4638" height="45" alt="CodeChef"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://codeforces.com/profile/yourusername" target="_blank">
+    <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" height="45" alt="Codeforces"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.hackerrank.com/profile/fulbabui74" target="_blank">
+    <img src="https://cdn.simpleicons.org/hackerrank/00EA64" height="45" alt="HackerRank"/>
+  </a>
+</p>
+
+
+
+## 👨‍💻 Developer Community
+
+<p align="center">
+  <a href="https://peerlist.io/fulbabu" target="_blank">
+    <img src="https://cdn.simpleicons.org/peerlist/00AA45" height="45" alt="Peerlist"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://stackoverflow.com/users/30260927/fulbabu-islam" target="_blank">
+    <img src="https://cdn.simpleicons.org/stackoverflow/F58025" height="45" alt="Stack Overflow"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://hashnode.com/@fulbabu-f" target="_blank">
+    <img src="https://cdn.simpleicons.org/hashnode/2962FF" height="45" alt="Hashnode"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://dev.to/fulbabu_islam_3f0c91ffd56" target="_blank">
+  <img src="https://cdn.simpleicons.org/dev.to/7C4DFF" height="45" alt="Dev.to"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://medium.com/@fulbabui74" target="_blank">
+  <img src="https://cdn.simpleicons.org/medium/2962FF" height="45" alt="Medium"/>
+</a>
+</p>
+
+
+---
+
+## 💻 Tech Stack
+
+<table>
+<tr>
+<th>💻 Programming Languages</th>
+<th>🌐 Web / Frontend</th>
+<th>⚙️ Backend / Frameworks</th>
+</tr>
+
+<tr>
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=c,java,python,js,ts" />
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vite,tailwind,bootstrap,sass" />
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring" />
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<th>🗄️ Databases</th>
+<th>☁️ Cloud / DevOps</th>
+<th>🛠️ Tools</th>
+</tr>
+
+<tr>
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,supabase" />
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,vercel,netlify" />
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,linux,bash,postman,figma,notion" />
+
+</td>
+</tr>
+</table>
+
+
+
+
+
+
+
 
 ---
 <h1 align="center">
