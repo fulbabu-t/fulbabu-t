@@ -38,10 +38,43 @@
 
 ## 👨‍💻 About Me
 
+<div align="center">
 
-<p align="center">
-  <img src="index.svg" width="100%" alt="Animated Terminal">
-</p>
+<table>
+<tr>
+<td>
+
+```console
+🔴 🟡 🟢  fulbabu@github:~
+```
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:00F5A0,50:00C6FF,100:7F00FF&section=header&text=🖥️%20fulbabu@github:~&fontColor=ffffff&fontSize=28&animation=twinkling"/>
+
+<br>
+
+<br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2000&pause=900&color=39FF14&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=500&lines=%24+whoami;Fulbabu+Islam;%24+education;B.Tech+Computer+Science+and+Engineering;J.C.+Bose+University,+YMCA+(2023-2027);%24+currently;GirlScript+Summer+of+Code+(GSSoC);%24+learning;Python+%7C+Artificial+Intelligence;%24+passion;Open+Source+Contributor;%24+about;I+love+creating+things+people+enjoy+using.;%24+resume;Available+on+my+portfolio;%24+contact;fulbabui74%40gmail.com;%24+portfolio;https%3A%2F%2Ffulbabu.dev;%24+echo+Turning+coffee+into+code...;Turning+coffee+into+code..." />
+
+
+
+<br>
+
+
+
+</td>
+</tr>
+</table>
+
+</div>
+
 
 
 
