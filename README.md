@@ -38,12 +38,12 @@
 
 ## 👨‍💻 About Me
 
-
 <p align="center">
-  <a href=" https://fulbabu-t.github.io/fulbabu-t/" target="_blank">
-    <img src="https://img.shields.io/badge/Open-Terminal-00FF66?style=for-the-badge&logo=gnubash&logoColor=white">
+  <a href="https://fulbabu.github.io/fulbabu-t/" target="_blank">
+    <img src="https://img.shields.io/badge/Open-Terminal-00FF66?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=000000" alt="Open Terminal">
   </a>
 </p>
+
 
 
 
