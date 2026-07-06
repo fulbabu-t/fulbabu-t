@@ -40,7 +40,7 @@
 
 
 <p align="center">
-  <img src="terminal.svg" width="100%" alt="Animated Terminal">
+  <img src="index.svg" width="100%" alt="Animated Terminal">
 </p>
 
 
