@@ -38,10 +38,9 @@
 
 ## 👨‍💻 About Me
 
-## 💻 Interactive Terminal
 
 <p align="center">
-  <a href="https://Fulbabu.github.io/Fulbabu/" target="_blank">
+  <a href=" https://fulbabu-t.github.io/fulbabu-t/" target="_blank">
     <img src="https://img.shields.io/badge/Open-Terminal-00FF66?style=for-the-badge&logo=gnubash&logoColor=white">
   </a>
 </p>
