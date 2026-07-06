@@ -120,12 +120,12 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.codechef.com/users/yourusername" target="_blank">
+  <a href="https://www.codechef.com/users/shy_bats_62" target="_blank">
     <img src="https://cdn.simpleicons.org/codechef/5B4638" height="45" alt="CodeChef"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="https://codeforces.com/profile/yourusername" target="_blank">
+  <a href="https://codeforces.com/profile/Fulbabu-F" target="_blank">
     <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" height="45" alt="Codeforces"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
