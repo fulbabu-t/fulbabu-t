@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Animated Terminal</title>
+
+<style>
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    background:#000;
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    font-family:Consolas,monospace;
+}
+
+.terminal{
+    width:95%;
+    max-width:1450px;
+    height:92vh;
+    background:#000;
+    border-radius:25px;
+    overflow:hidden;
+    border:2px solid #00ff66;
+    box-shadow:
+        0 0 10px #00ff66,
+        0 0 40px rgba(0,255,100,.2);
+}
+
+.titlebar{
+    height:70px;
+    background:#0c0f12;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    position:relative;
+    border-bottom:2px solid #2b2b2b;
+}
+
+.buttons{
+    position:absolute;
+    left:25px;
+    display:flex;
+    gap:14px;
+}
+
+.buttons span{
+    width:18px;
+    height:18px;
+    border-radius:50%;
+    display:block;
+}
+
+.red{background:#ff5f56;}
+.yellow{background:#ffbd2e;}
+.green{background:#27c93f;}
+
+.title{
+    font-size:32px;
+    color:#ddd;
+}
+
+.green-text{
+    color:#00ff3c;
+}
+
+.blue{
+    color:#55a8ff;
+}
+
+.screen{
+    padding:35px;
+    height:calc(100% - 70px);
+    overflow-y:auto;
+}
+
+#terminal{
+    white-space:pre-wrap;
+    font-size:30px;
+    line-height:1.6;
+    color:#eee;
+}
+
+.prompt{
+    color:#00ff3c;
+    font-weight:bold;
+}
+
+.yellow{
+    color:#ffe600;
+}
+
+.pink{
+    color:#ff44ff;
+}
+
+.blueLink{
+    color:#1f8cff;
+}
+
+.cursor{
+    display:inline-block;
+    width:18px;
+    height:34px;
+    background:#00ff44;
+    margin-left:5px;
+    animation:blink .8s infinite;
+}
+
+@keyframes blink{
+    50%{
+        opacity:0;
+    }
+}
+
+::-webkit-scrollbar{
+    width:8px;
+}
+
+::-webkit-scrollbar-thumb{
+    background:#00ff55;
+    border-radius:10px;
+}
+
+::-webkit-scrollbar-track{
+    background:#111;
+}
+</style>
+
+</head>
+
+<body>
+
+<div class="terminal">
+
+    <div class="titlebar">
+        <div class="buttons">
+            <span class="red"></span>
+            <span class="yellow"></span>
+            <span class="green"></span>
+        </div>
+
+        <div class="title">
+            <span class="green-text">fulbabu</span>@<span class="blue">github</span>:~
+        </div>
+    </div>
+
+    <div class="screen">
+        <pre id="terminal"></pre>
+    </div>
+
+</div>
+
+<script>
+
+const terminal = document.getElementById("terminal");
+
+const commands = [
+
+{
+cmd:"whoami",
+out:'<span style="color:white">Fulbabu Islam</span>'
+},
+
+{
+cmd:"education",
+out:'<span class="yellow">B.Tech CSE | J.C. Bose University, YMCA (2023-2027)</span>'
+},
+
+{
+cmd:"currently",
+out:'<span class="pink">GSSoC ’26 Contributor</span>'
+},
+
+{
+cmd:"learning",
+out:'<span style="color:white">Python • AI • MERN</span>'
+},
+
+{
+cmd:"portfolio",
+out:'<span class="blueLink">https://fulbabu.dev</span>'
+},
+
+{
+cmd:'echo "Turning coffee into code..."',
+out:'<span style="color:white">Turning coffee into code... ☕</span>'
+}
+
+];
+
+let speed = 22;
+let html = "";
+
+function sleep(ms){
+    return new Promise(resolve=>setTimeout(resolve,ms));
+}
+
+async function type(text){
+
+    for(let i=0;i<text.length;i++){
+
+        html += text[i];
+
+        terminal.innerHTML =
+            html +
+            '<span class="cursor"></span>';
+
+        await sleep(speed);
+
+        terminal.parentElement.scrollTop =
+        terminal.parentElement.scrollHeight;
+
+    }
+
+}
+
+async function start(){
+
+    for(let c of commands){
+
+        await type(
+            '<span class="prompt">fulbabu@github:~$ ' +
+            c.cmd +
+            '</span>\n'
+        );
+
+        await sleep(300);
+
+        await type(c.out + "\n\n");
+
+        await sleep(450);
+
+    }
+
+    terminal.innerHTML =
+    html +
+    '<span class="prompt">fulbabu@github:~$ </span><span class="cursor"></span>';
+
+}
+
+start();
+
+</script>
+
+</body>
+</html>
