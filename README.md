@@ -38,16 +38,13 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Pursuing **B.Tech in Computer Science & Engineering** at J.C. Bose University, YMCA (2023–2027)
-- ❣ You know what? I love Contributing to Open Source 🩵.
-- 🔭 Currently working on ** GirlScript Summer of Code (GSSoC) **  
-- 🌱 Improving skills in ** Python , Ai **   
-- 💬 Ask me about Turning coffee into code
-- 💻 I love creating things people enjoy using.
-- 📄 Know about my experiences Resume
-- 📫 Reach me at **fulbabui74@gmail.com**
-- 🌐 Check out my portfolio [My Portfolio](https://fulbabu.dev/)
+## 💻 Interactive Terminal
 
+<p align="center">
+  <a href="https://Fulbabu.github.io/Fulbabu/" target="_blank">
+    <img src="https://img.shields.io/badge/Open-Terminal-00FF66?style=for-the-badge&logo=gnubash&logoColor=white">
+  </a>
+</p>
 
 
 
