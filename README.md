@@ -38,10 +38,21 @@
 
 ## 👨‍💻 About Me
 
+
+<p align="center">
+  <a href="https://fulbabu.github.io/fulbabu-t/" target="_blank">
+    <img src="./terminal.png" alt="Interactive Terminal" width="100%">
+  </a>
+</p>
+
 <p align="center">
   <a href="https://fulbabu.github.io/fulbabu-t/" target="_blank">
     <img src="https://img.shields.io/badge/Open-Terminal-00FF66?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=000000" alt="Open Terminal">
   </a>
+</p>
+
+<p align="center">
+  <b>👆 Click the terminal preview or the button above to open the live interactive terminal.</b>
 </p>
 
 
